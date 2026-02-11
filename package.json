@@ -1,0 +1,12 @@
+{
+  "name": "sweet-bonanza-ts",
+  "version": "1.0.0",
+  "description": "Sweet Bonanza game logic converted from PHP to TypeScript",
+  "main": "src/Server.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
